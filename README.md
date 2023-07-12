@@ -1,4 +1,10 @@
                               < Hi there 👋 />
+                              
+    👋 Hi, I’m daniel sana from kenya.
+    👀 I’m a Front-end Developer. 
+    🌱 I love programming 
+    📫 You can reach me at dansana/danielsana@gmail.com/+254 726587467.
+
 
 
 
