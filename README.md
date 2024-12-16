@@ -1,7 +1,7 @@
                               < Hi there 👋 />
                               
-                  👋 Hi, I’m daniel sana from kenya.
-                  👀 I’m a Front-end Developer. 
+                  👋 Hi, I’m daniel sana from Nairobi kenya.
+                  👀 I’m a Web&Mobile Apps Developer. 
                   🌱 I love programming 
                   📫 You can reach me at dansana/danielsana@gmail.com/
                                 +254 726587467.
